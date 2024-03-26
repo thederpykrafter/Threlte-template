@@ -1,11 +1,11 @@
 # threlte-template
 
 Everything you need to build a Threlte project, powered by [`create-threlte`](https://github.com/threlte/threlte/tree/main/packages/create-threlte).<br>
-[`.replit`](https://replit.com) config included.
+`.replit` config file included.
 
 ## Creating a project
 
-If you're seeing this, you've probably already done this step. Congrats!
+>If you're using [`Replit`](httpe://replit.com) you can simply fork this repl!
 
 ```bash
 npx degit thederpykrafter/threlte-template
