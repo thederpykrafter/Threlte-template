@@ -1,6 +1,7 @@
-# create-threlte
+# threlte-template
 
-Everything you need to build a Threlte project, powered by [`create-threlte`](https://github.com/threlte/threlte/tree/main/packages/create-threlte).
+Everything you need to build a Threlte project, powered by [`create-threlte`](https://github.com/threlte/threlte/tree/main/packages/create-threlte).<br>
+[Replit](https://replit.com) config included.
 
 ## Creating a project
 
