@@ -1,6 +1,6 @@
 # create-threlte
 
-Everything you need to build a Svelte project, powered by [`create-threlte`](https://github.com/threlte/threlte/tree/main/packages/create-threlte).
+Everything you need to build a Threlte project, powered by [`create-threlte`](https://github.com/threlte/threlte/tree/main/packages/create-threlte).
 
 ## Creating a project
 
