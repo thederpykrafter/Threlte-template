@@ -8,11 +8,7 @@ Everything you need to build a Threlte project, powered by [`create-threlte`](ht
 If you're seeing this, you've probably already done this step. Congrats!
 
 ```bash
-# create a new project in the current directory
-npm create threlte@latest
-
-# create a new project in my-app
-npm create threlte@latest my-app
+npx degit thederpykrafter/threlte-template
 ```
 
 ## Developing
